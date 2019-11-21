@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestBlog.Core.Model</name>
+    </assembly>
+    <members>
+        <member name="T:TestBlog.Core.Model.GridFriend">
+            <summary>
+            这是女盆友
+            </summary>
+        </member>
+        <member name="P:TestBlog.Core.Model.GridFriend.Id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:TestBlog.Core.Model.GridFriend.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:TestBlog.Core.Model.GridFriend.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+        <member name="P:TestBlog.Core.Model.GridFriend.IsWoman">
+            <summary>
+            是否女性
+            </summary>
+        </member>
+    </members>
+</doc>

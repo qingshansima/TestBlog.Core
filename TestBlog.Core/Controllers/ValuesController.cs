@@ -8,6 +8,7 @@ namespace TestBlog.Core.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [ApiExplorerSettings(IgnoreApi =true)]
     public class ValuesController : ControllerBase
     {
         // GET api/values
